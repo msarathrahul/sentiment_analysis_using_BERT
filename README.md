@@ -1,7 +1,3 @@
-Sure, I'd be happy to help you write a README file for your project! Here's a template you can use as a starting point. Remember to customize it with specific details about your project.
-
----
-
 # Sentiment Analysis Project README
 
 Welcome to the Sentiment Analysis Project! This project focuses on performing sentiment analysis on a collection of reviews using a pre-trained BERT model for multilingual sentiment analysis. The goal is to predict the sentiment of each review and analyze the distribution of sentiments in the dataset.
@@ -14,7 +10,6 @@ Welcome to the Sentiment Analysis Project! This project focuses on performing se
 - [Project Structure](#project-structure)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -66,10 +61,6 @@ The results of the sentiment analysis are generated in terms of the distribution
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
